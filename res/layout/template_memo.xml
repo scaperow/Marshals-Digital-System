@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_marginBottom="4dp"
+    android:layout_marginTop="4dp"
+    android:minHeight="40dp"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/memo_content"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="商洛市警民报告，发现疑犯在城区红衣酒店附近活动。"
+        android:textColor="#555555" />
+
+    <TextView
+        android:id="@+id/memo_publish"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/memo_content"
+        android:gravity="right|center"
+        android:text="TextView"
+        android:textColor="#999999" />
+
+</RelativeLayout>

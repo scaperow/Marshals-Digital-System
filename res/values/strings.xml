@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">数字法警系统</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">数字法警</string>
+    <string name="title_activity_message">消息</string>
+    <string name="title_activity_setting">设置</string>
+    <string name="title_activity_task">数字法警</string>
+    <string name="title_activity_task_details">任务详情</string>
+    <string name="title_activity_create_task">添加任务</string>
+    <string name="title_activity_create_memo">添加备注</string>
+    <string name="title_activity_ma_din">MaDinActivity</string>
+
+</resources>
